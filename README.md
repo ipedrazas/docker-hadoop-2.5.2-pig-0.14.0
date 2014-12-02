@@ -16,7 +16,7 @@ docker pull ipedrazas/hadoop-pig
 In order to use the Docker image use:
 
 ```
-docker run -i -t ipedrazas/haddop-pig /etc/bootstrap.sh -bash
+docker run -i -t ipedrazas/hadoop-pig /etc/bootstrap.sh -bash
 ```
 
 # Test Pig
